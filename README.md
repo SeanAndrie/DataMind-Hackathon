@@ -1,4 +1,4 @@
-# RecognAIze-Hackathon
+# Team *Attention* | RecognAIze-Hackathon
 
 "In secure workplaces and restricted environments, surveillance systems play a critical role in ensuring that only authorized personnel are present. This competition invites participants to develop intelligent computer vision models and pipeline that can detect and identify employees in CCTV frames using provided reference photos.
 
