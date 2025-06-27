@@ -15,5 +15,5 @@ Our solution puts great emphasis on *efficiency* and *simplicity* as the reident
 It was able to achieve performance comparable to that of more complex implementations (particularly neural networks) due to:
 
 - smart feature extraction and engineering;
-- a efficient cross-validation strategy; as well as
+- an efficient cross-validation strategy; as well as
 - hyperparameter tuning.
