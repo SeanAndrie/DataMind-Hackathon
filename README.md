@@ -9,7 +9,7 @@ This our team's machine learning pipeline for the **RecognAIze Hackathon** hoste
 
 Our solution puts great emphasis on *efficiency* and *simplicity* as the reidentifcation process is mainly done by a linear classifier.
 
-It was able to achieve performance comparable to that of more complex implementations (particularly neural networks) due to:
+It was able to achieve performance comparable to that of more complex implementations (particularly neural networks) thanks to:
 
 - smart feature extraction and engineering;
 - an efficient cross-validation strategy; as well as
