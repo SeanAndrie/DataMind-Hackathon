@@ -5,7 +5,7 @@
 Face Identification – Match each detected face to a known employee from a gallery of reference photos, or flag it as "unknown" if no match exists.
 Participants will work with real-world CCTV imagery that presents natural challenges like varied lighting, camera angles, occlusions, and crowded environments—making this a realistic testbed for surveillance and access verification AI system"
 
-This our team's machine learning pipeline for the **RecognAIze Hackathon** hosted by DataMind at 42 Abu Dhabi.
+This is our team's machine learning pipeline for the **RecognAIze Hackathon** hosted by DataMind at 42 Abu Dhabi.
 
 Our solution puts great emphasis on *efficiency* and *simplicity* as the reidentifcation process is mainly done by a linear classifier.
 
